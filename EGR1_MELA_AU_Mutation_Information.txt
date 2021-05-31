@@ -1,0 +1,80 @@
+Mutation ID	Genomic DNA Change	Type	Consequences	Clinical Significance	Donors affected	Clinical Evidence	Projects Mutation Observed
+MU46136194	chr5:g.137800769G>A	single base substitution	Upstream: EGR1		6/9	0	LMS-FR:2/67|MELA-AU:6/183|SKCA-BR:1/100
+MU34643531	chr5:g.137800768G>A	single base substitution	Upstream: EGR1		5/8	0	LMS-FR:2/67|MELA-AU:5/183|SKCA-BR:1/100
+MU43776348	chr5:g.137800781G>A	single base substitution	Upstream: EGR1		3/3	0	MELA-AU:3/183
+MU54890034	chr5:g.137800780G>A	single base substitution	Upstream: EGR1		2/3	0	MELA-AU:2/183|SKCA-BR:1/100
+MU58854006	chr5:g.137800768GG>AA	multiple base substitution (>=2bp and <=200bp)	Upstream: EGR1		2/2	0	MELA-AU:2/183
+MU34924395	chr5:g.137800775C>T	single base substitution	Upstream: EGR1		2/3	0	MELA-AU:2/183|SKCA-BR:1/100
+MU50685158	chr5:g.137800789C>T	single base substitution	Upstream: EGR1		2/2	0	MELA-AU:2/183
+MU50598415	chr5:g.137804194C>T	single base substitution	3 UTR: EGR1		2/2	0	MELA-AU:2/183
+MU61546001	chr5:g.137801077C>T	single base substitution	Upstream: EGR1		2/2	0	MELA-AU:2/183
+MU50769589	chr5:g.137796518C>T	single base substitution	Upstream: EGR1		2/2	0	MELA-AU:2/183
+MU45337709	chr5:g.137807331C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU92934940	chr5:g.137808923C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU92584180	chr5:g.137801042G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU44121697	chr5:g.137806545C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU41969334	chr5:g.137809613C>T	single base substitution	Exon: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU46295566	chr5:g.137800383G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU94078759	chr5:g.137804511C>T	single base substitution	Upstream: RPL7P19 |3 UTR: EGR1		1/1	0	MELA-AU:1/183
+MU59078469	chr5:g.137798664C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU59581139	chr5:g.137805014C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU59306787	chr5:g.137805656C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU63132334	chr5:g.137807330C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU47953008	chr5:g.137802844C>T	single base substitution	Missense: EGR1 P236S		1/1	0	MELA-AU:1/183
+MU54547790	chr5:g.137806138G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU46201917	chr5:g.137802058T>G	single base substitution	Intron: EGR1		1/1	0	MELA-AU:1/183
+MU58039057	chr5:g.137797176G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU48437880	chr5:g.137807685A>G	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU41721000	chr5:g.137797673G>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU76392131	chr5:g.137801240A>T	single base substitution	Start Gained: EGR1		1/1	0	MELA-AU:1/183
+MU58917557	chr5:g.137804148C>A	single base substitution	3 UTR: EGR1		1/1	0	MELA-AU:1/183
+MU50402884	chr5:g.137808270C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU34924407	chr5:g.137800776C>T	single base substitution	Upstream: EGR1		1/4	0	LMS-FR:1/67|MELA-AU:1/183|SKCA-BR:2/100
+MU56805443	chr5:g.137800775CC>TT	multiple base substitution (>=2bp and <=200bp)	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU62309787	chr5:g.137806638G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU40643367	chr5:g.137805572G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU61212041	chr5:g.137796258C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU94329764	chr5:g.137800743G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU61106350	chr5:g.137808923CC>TT	multiple base substitution (>=2bp and <=200bp)	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU54392810	chr5:g.137800764G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU53720910	chr5:g.137808434G>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU62307393	chr5:g.137802925G>A	single base substitution	Missense: EGR1 D263N		1/1	0	MELA-AU:1/183
+MU54028506	chr5:g.137797694C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU63161297	chr5:g.137805509C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU62676426	chr5:g.137804848C>T	single base substitution	Upstream: RPL7P19 |3 UTR: EGR1		1/1	0	MELA-AU:1/183
+MU53451476	chr5:g.137800885G>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU58190015	chr5:g.137802127C>T	single base substitution	Intron: EGR1		1/1	0	MELA-AU:1/183
+MU54066395	chr5:g.137800764GG>AA	multiple base substitution (>=2bp and <=200bp)	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU42468822	chr5:g.137801085C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU51150717	chr5:g.137809485A>G	single base substitution	Exon: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU47340706	chr5:g.137807939G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU59621395	chr5:g.137805132C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/2	0	MELA-AU:1/183|SKCA-BR:1/100
+MU54259342	chr5:g.137800097G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU92934951	chr5:g.137808924C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU75746416	chr5:g.137799849A>G	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU40928044	chr5:g.137801131C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU59689655	chr5:g.137797489C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU47787193	chr5:g.137806658G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU59964037	chr5:g.137805446G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU54113429	chr5:g.137805862GG>AA	multiple base substitution (>=2bp and <=200bp)	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU47690094	chr5:g.137797810T>C	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU49605453	chr5:g.137799080A>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU49390276	chr5:g.137799176C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU58273215	chr5:g.137803677C>T	single base substitution	Synonymous: EGR1 F513F		1/1	0	MELA-AU:1/183
+MU51025985	chr5:g.137807656G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU51420834	chr5:g.137799071A>G	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU54860007	chr5:g.137808455G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU61180726	chr5:g.137807374G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU52976450	chr5:g.137796204C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU43162854	chr5:g.137803493C>T	single base substitution	Missense: EGR1 S452F		1/1	0	MELA-AU:1/183
+MU49819308	chr5:g.137800835C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU49329212	chr5:g.137804373C>T	single base substitution	3 UTR: EGR1		1/1	0	MELA-AU:1/183
+MU42327957	chr5:g.137800759G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU47347670	chr5:g.137800738G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU56231966	chr5:g.137808245GG>AA	multiple base substitution (>=2bp and <=200bp)	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU45318564	chr5:g.137806274C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU51650650	chr5:g.137797642C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU52210916	chr5:g.137796489G>A	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
+MU59837996	chr5:g.137808590C>T	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU40978991	chr5:g.137809233G>A	single base substitution	Upstream: RPL7P19 |Downstream: EGR1		1/1	0	MELA-AU:1/183
+MU53018620	chr5:g.137801137C>T	single base substitution	Upstream: EGR1		1/1	0	MELA-AU:1/183
